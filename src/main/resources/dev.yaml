@@ -1,0 +1,13 @@
+http=
+port="80"
+
+processAPI=
+putContact=
+path="/api/contacts"
+putAddress=
+putCommunication=
+postContact=
+getContact=
+deleteContact=
+    
+host=![vqkIUnHPcC36ytM4cr9JB4papAf/v5PPwcc7Emt3WLFD8l6DQiZHE4CqEZRpjlwqtMIOO1Hijlc=]
